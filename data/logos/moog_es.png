@@ -1,0 +1,1420 @@
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+<!DOCTYPE html>
+<!--[if lt IE 9 ]> <html class="ie-old lt9" lang="es" xml:lang="es"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie-old" lang="es" xml:lang="es"> <![endif]-->
+<!--[if !(IE)]><!-->
+<html lang="es" xml:lang="es"> <!--<![endif]-->
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="author" content="Moog Inc."/>
+        
+        
+
+
+
+
+
+
+
+
+<meta name="title" content="España"/>
+<meta name="description" content="Fundada en 1951 por Bill Moog en East Aurora, Nueva York, Moog Inc. se ha establecido en todo el mundo como diseñador, fabricante e integrador de componentes y sistemas de control de movimiento de alta precisión."/>
+
+<link rel="canonical" href="https://www.moog.es/"/>
+
+<meta property="og:title" content="España"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.moog.es/"/>
+<meta name="image" property="og:image" content="https://www.moog.es:443"/>
+<meta property="og:description" content="Fundada en 1951 por Bill Moog en East Aurora, Nueva York, Moog Inc. se ha establecido en todo el mundo como diseñador, fabricante e integrador de componentes y sistemas de control de movimiento de alta precisión."/>
+<meta property="og:locale" content="es"/>
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="España"/>
+<meta name="twitter:description" content="Fundada en 1951 por Bill Moog en East Aurora, Nueva York, Moog Inc. se ha establecido en todo el mundo como diseñador, fabricante e integrador de componentes y sistemas de control de movimiento de alta precisión."/>
+<meta name="twitter:image" content="https://www.moog.es:443"/>
+
+
+    
+
+
+        
+
+
+<!-- GDPR GA -->
+
+    
+    
+    <script type="text/plain" class="optanon-category-C0002">
+        /* Google Tag Manager */
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MSJQ5VV');
+    /* End Google Tag Manager */
+    </script>
+    <script type="text/plain" class="optanon-category-C0002">
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'G-5Q6VE7Z9Q7', {
+                'storeGac': true
+            });
+            ga('set', 'anonymizeIp', true);
+            ga('set', 'dimension1', 'true');
+            ga('send', 'pageview');
+            console.debug(localStorage.getItem('ga:clientId'));
+
+        </script>
+    
+
+    <script type="text/plain" class="optanon-category-C0002">
+        <!-- Matomo tracking code -->
+        
+    </script>
+
+    
+
+<!-- END GDPR GA -->
+
+<link rel="icon" href="/etc.clientlibs/moog/clientlibs/moog.all-components/resources/images/favicon.ico"/><!--[if IE]>
+<link rel="shortcut icon" href="/etc.clientlibs/moog/clientlibs/moog.all-components/resources/images/favicon.ico"><![endif]-->
+<link rel="apple-touch-icon" href="/etc.clientlibs/moog/clientlibs/moog.all-components/resources/images/favicon.ico"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+<meta name="msapplication-TileImage" content="/etc.clientlibs/moog/clientlibs/moog.all-components/resources/images/favicon.ico"/>
+
+<link href="/etc.clientlibs/moog-shared/clientlib/resources/fonts/roboto.css" rel="stylesheet"/>
+<link href="/etc.clientlibs/moog-shared/clientlib/resources/fonts/opensans.css" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css"/>
+
+
+
+<style>
+        div #main {
+            margin-top: 80px;
+        }
+    </style>
+
+
+
+
+        
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/moog/clientlibs/moog.3rd-party.min.css" type="text/css">
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/moog/clientlibs/moog.core.min.css" type="text/css">
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/moog/clientlibs/moog.all-components.min.css" type="text/css">
+
+
+
+
+        
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+<script src="/etc/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/moog/light-redesign/clientlibs.min.css" type="text/css">
+
+
+
+    
+        <meta name="RUNMODES" content=", true"/>
+        
+    
+
+
+        
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/main.min.js"></script>
+
+
+
+    
+    
+
+        
+
+
+
+
+
+
+
+
+        
+
+        
+
+<!-- One Trust Cloud Service -->
+<!-- OneTrust Cookies Consent Notice start for moog.es -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="6b708b61-fede-4326-bd57-cc68240d03dd"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for moog.es -->
+
+
+
+        <link rel="stylesheet" href="/etc.clientlibs/moog-shared/clientlib/resources/fonts/opensans.css"/>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css"/>
+
+        <link rel="icon" type="image/vnd.microsoft.icon" href="/etc.clientlibs/moog-shared/clientlib/resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc.clientlibs/moog-shared/clientlib/resources/images/favicon.ico"/>
+
+        
+
+        <title>España</title>
+
+    </head>
+</html>
+</head>
+    <body><!-- GTM -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSJQ5VV" title="Google Tag Manager" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="mfp-bg mfp-hide"></div>
+<div class="mfp-wrap mfp-auto-cursor mfp-hide" tabindex="-1" style="overflow-x: hidden; overflow-y: auto;">
+    <div class="mfp-container mfp-s-ready mfp-inline-holder">
+        <div class="mfp-content">
+            <div class="modal-content-wrapper form-container">
+                <div class="modal-content-dynamic">
+
+                </div>
+                <a href="#" title="Close" type="button" class="mfp-close"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Navigation -->
+<!--[if lt IE 10]>
+<div id="upgrade-browser">
+    <div class="upgrade-browser">
+        <div class="ub-header">
+            <h3 class="ub-title">Your browser is out of date!</h3>
+        </div>
+        <div class="ub-content">
+            <h3 class="ub-caption">For the best experience, please select one of the following browsers:</h3>
+            <ul class="ub-list">
+                <li class="ub-item">
+                    <div class="figure">
+                        <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">
+                            <img src="/content/dam/internet-explorer.png" />
+                            IE 10+
+                        </a>
+                    </div>
+                </li>
+                <li class="ub-item">
+                    <div class="figure">
+                        <a href="https://www.google.com/chrome/browser/desktop/" target="_blank">
+                            <img src="/content/dam/chrome.png" />
+                            Chrome
+                        </a>
+                    </div>
+                </li>
+                <li class="ub-item">
+                    <div class="figure">
+                        <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
+                            <img src="/content/dam/firefox.png" />
+                            Firefox
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<![endif]-->
+
+<header id='header-refresh'>
+    <div>
+        
+
+
+
+
+    
+        
+        
+        <div class="global-nav-v2 global-nav">
+
+
+
+
+<div class="Nav_Overlay-test ">
+</div>
+
+<div class="Nav ">
+
+    
+    <div id="Nav-alert-box" class="Nav-alert-box hidden" data-isEnabled="false" data-isPersistent="false">
+
+        
+
+        <button class="close-alert-box" aria-label="Close">X</button>
+    </div>
+    
+
+    <div class="Nav-main analytics-navigation">
+        <div class="Nav-wrapper">
+            <div class="Logo">
+                <a href="/" aria-label="Moog Logo" title="Moog Logo" class="Logo-link">
+                    <img src="/content/dam/sites/moog/images/logos/Moog_logo_white.png" class="Logo-image" alt="" role="presentation"/>
+                </a>
+            </div>
+        
+            <div class="Search">
+                <a href="#" class="Search-link">
+                    
+                </a>
+                <div class="Search-slideout Slideout-icon-search">
+                    <div class="wrapper">
+                        <span></span>
+                        <div class="Search_Form">
+                            <form id="searchForm" action="/search.html" method="get" class="js-advanced-search-nav">
+                                <div class="Button_Dropdown">
+                                    <a href="#" class="Button_Dropdown-trigger">Search</a>
+                                    <div class="Button_Dropdown-content">
+                                        <ul class="Button_Dropdown-list">
+                                            <li class="Button_Dropdown-item is-active">
+                                                <a href="#" data-action="/content/country-sites/es/es/search.html?navSearch=true&amp;search=/content/country-sites/es/es&amp;searchAsset=/content/dam/moog/literature/MoogS3" data-path="&amp;search=/content/country-sites/es/es" data-assetpath="&amp;searchAsset=/content/dam/moog/literature/MoogS3">Search</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="Search_Input">
+                                    <input type="hidden" id="_charset_" name="_charset_" value="UTF-8"/>
+                                    <input type="text" class="Search_Input-input form-control Advanced_Search Advanced_Search--searchTerm" name="q" placeholder="Search" value=""/>
+                                    <a href="#" class="Search_Input-button">
+                                        <span class="sr-only"></span>
+                                    </a>
+                                </div>
+                            </form>
+                        </div>
+                        <a href="#" class="Search-close">
+                            <span class="sr-only">X</span>
+                        </a>
+                    </div>
+                    <div class="Tabs js-tabs">
+                        <div class="Tabs-wrapper">
+                            <span class="Tabs-search-label">Search:</span>
+                            
+                                <a data-action="/content/country-sites/es/es.advancedsearch.json?simple=true&component=/content/country-sites/es/es/jcr:content/global-nav/global_nav_v2&search=&amp;search=/content/country-sites/es/es" data-path="&amp;search=/content/country-sites/es/es" href="#" class="Tab js-tab is-active" aria-controls="" role="tab">
+                                    <span class="Tab-label_wrapper">
+                                        <span class="Tab-label">Search</span>
+                                    </span>
+                                </a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="Nav-desktop">
+                <div class="Menu Menu--mega">
+                    <ul class="Menu-list">
+                        
+                            <li class="Menu-item">
+                                <a href="/productos-y-soluciones.html" data-id="mn-1" class="Menu-link Menu-link--has_dropdown js-menu-link  ">
+                                    <span>Productos y Soluciones</span>
+                                </a>
+                                
+                                
+                                <!-- New dropdown Generic List Style -->
+                                
+                                <!-- for 'megamenu' style -->
+                                
+
+                            </li>
+                        
+                            <li class="Menu-item">
+                                <a href="/industria.html" data-id="mn-2" class="Menu-link Menu-link--has_dropdown js-menu-link  ">
+                                    <span>Industrias</span>
+                                </a>
+                                
+                                
+                                <!-- New dropdown Generic List Style -->
+                                
+                                <!-- for 'megamenu' style -->
+                                
+
+                            </li>
+                        
+                            <li class="Menu-item">
+                                <a href="/asistencia.html" data-id="mn-3" class="Menu-link Menu-link--has_dropdown js-menu-link  ">
+                                    <span>Asistencia</span>
+                                </a>
+                                
+                                
+                                <!-- New dropdown Generic List Style -->
+                                
+                                <!-- for 'megamenu' style -->
+                                
+
+                            </li>
+                        
+                            <li class="Menu-item">
+                                <a href="/acerca-de-moog.html" data-id="mn-4" class="Menu-link Menu-link--has_dropdown js-menu-link  ">
+                                    <span>Acerca de Moog</span>
+                                </a>
+                                
+                                
+                                <!-- New dropdown Generic List Style -->
+                                
+                                <!-- for 'megamenu' style -->
+                                
+
+                            </li>
+                        
+                            <li class="Menu-item">
+                                <a href="/contactos.html" data-id="mn-5" class="Menu-link Menu-link--has_dropdown js-menu-link  ">
+                                    <span>Contactos</span>
+                                </a>
+                                
+                                
+                                <!-- New dropdown Generic List Style -->
+                                
+                                <!-- for 'megamenu' style -->
+                                
+
+                            </li>
+                        
+                            <li class="Menu-item">
+                                <a href="https://www.moog.com/" data-id="mn-6" class="Menu-link Menu-link--has_dropdown js-menu-link  ">
+                                    <span>Moog.com</span>
+                                </a>
+                                
+                                
+                                <!-- New dropdown Generic List Style -->
+                                
+                                <!-- for 'megamenu' style -->
+                                
+
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div data-side="right" class="Nav-slideout_trigger Nav-slideout_trigger--right Nav-slideout_trigger--main_menu"><a href="#" aria-hidden="true" class="menu"><span></span><span></span><span></span></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="Nav_Slideout Nav_Slideout--right Nav_Slideout--main_menu">
+    <div class="Nav_Slideout-header">
+      <div class="Logo">
+        <a href="/" alt="Moog Logo" class="Logo-link">
+          <img src="/content/dam/sites/moog/images/logos/Moog_logo_white.png" class="Logo-image" alt="" role="presentation"/>
+        </a>
+      </div>
+      <a href="#" class="Nav_Slideout-trigger"></a>
+    </div>
+    <div class="Slide_Panel Slide_Panel--main_menu">
+      <ul class="Slide_Panel-list">
+        
+          <li class="Slide_Panel-item">
+            <a href="/productos-y-soluciones.html" data-id="mn-1" class="Slide_Panel-link ">
+              <span>Productos y Soluciones</span>
+            </a>
+            
+            
+            
+            
+          </li>
+          
+        
+          <li class="Slide_Panel-item">
+            <a href="/industria.html" data-id="mn-2" class="Slide_Panel-link ">
+              <span>Industrias</span>
+            </a>
+            
+            
+            
+            
+          </li>
+          
+        
+          <li class="Slide_Panel-item">
+            <a href="/asistencia.html" data-id="mn-3" class="Slide_Panel-link ">
+              <span>Asistencia</span>
+            </a>
+            
+            
+            
+            
+          </li>
+          
+        
+          <li class="Slide_Panel-item">
+            <a href="/acerca-de-moog.html" data-id="mn-4" class="Slide_Panel-link ">
+              <span>Acerca de Moog</span>
+            </a>
+            
+            
+            
+            
+          </li>
+          
+        
+          <li class="Slide_Panel-item">
+            <a href="/contactos.html" data-id="mn-5" class="Slide_Panel-link ">
+              <span>Contactos</span>
+            </a>
+            
+            
+            
+            
+          </li>
+          
+        
+          <li class="Slide_Panel-item">
+            <a href="https://www.moog.com/" data-id="mn-6" class="Slide_Panel-link ">
+              <span>Moog.com</span>
+            </a>
+            
+            
+            
+            
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+  
+</div>
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+
+    </div>
+</header>
+
+
+
+
+
+
+
+
+<!-- Banner Content -->
+
+
+
+<!-- Main Content -->
+<main id="main" class="main--FullWidth ">
+    
+    
+
+    <div class="fullWidthContainer-v2 fullWidthContainer parbase section">
+
+
+<div class="fullWidthContainer-v2-bg Container_Border u-background-transparent
+        
+        u-padding-normal
+        
+        
+        
+        
+        
+        u-linkstyle-plain fullWidthContainer-inner default
+        height-fit
+        analytics-hp-main">
+    
+
+    
+
+    
+    
+    <video autoplay loop muted playsinline class="background-video" preload="auto">
+        <source src="content/dam/sites/germany/video/homepage/Moog_BewegterBanner_Plane_250311.mp4" type="video/mp4"/>
+    </video>
+    
+
+    
+    <section class="Section fullWidthContainer-content
+        u-padding-normal-vertical
+        
+        
+        
+        
+        u-limit-width-true
+        u-align-center u-content-align-center">
+
+        
+        
+
+            
+            
+
+            
+            <div class="wrapper">
+
+
+
+
+    
+    
+    <div class="verticalSpacer"><div class="Vertical_Height Vertical_Height--small">
+    
+</div></div>
+
+
+    
+    
+    <div class="text parbase"><h1 style="font-family: Open Sans;font-size: 38.0pt;color: rgb(255,255,255);text-shadow: rgb(10,10,10) 2.0px 2.0px 2.0px;font-weight: 900;">Shaping the way our world moves<span style="font-size: 30.0pt;"><sup>™</sup></span></h1>
+
+
+</div>
+
+
+    
+    
+    <div class="verticalSpacer"><div class="Vertical_Height Vertical_Height--medium">
+    
+</div></div>
+
+
+</div>
+        
+    </section>
+</div>
+</div>
+<div class="master-tiles base-templates section">
+    
+    
+
+
+
+
+    
+        
+            
+            
+                
+    
+    <div class="mt-about-container analytics-hp-main">
+        <div class="mt-about-style">
+            
+            <h1 class="mt-about-style--title mt-heading mt-title--">
+                Moog en España
+            </h1>
+            
+
+            
+            
+
+            
+            <div class="mt-about-style--tiles">
+                
+                    <a href="https://www.moog.es/productos-y-soluciones.html" aria-label="Productos y Soluciones" title="Productos y Soluciones" target="_self" data-modal-id="about-moog-tile-0" class="mt-about-style--tiles-item ">
+                        <div class="lazy mt-about-style--tiles-item__details " data-general-image="/content/dam/country-sites/france/images/homepage/Tiele-EAS2.jpg.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2f country-sites\2f france\2fimages\2fhomepage\2fTiele-EAS2.jpg.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                        </div>
+                        <div class="mt-about-style--tiles-item__tile-overlay">
+                            <div class="tile-footer">
+                                <p class="cta">Productos y Soluciones</p>
+                            </div>
+                        </div>
+                    </a>
+                
+                    <a href="https://www.moog.es/industria.html" aria-label="Industrias" title="Industrias" target="_self" data-modal-id="about-moog-tile-1" class="mt-about-style--tiles-item ">
+                        <div class="lazy mt-about-style--tiles-item__details " data-general-image="/content/dam/country-sites/france/images/homepage/Metal-Forming-Presses-Industry-Page-Hero-Image.jpeg.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2f country-sites\2f france\2fimages\2fhomepage\2fMetal-Forming-Presses-Industry-Page-Hero-Image.jpeg.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                        </div>
+                        <div class="mt-about-style--tiles-item__tile-overlay">
+                            <div class="tile-footer">
+                                <p class="cta">Industrias</p>
+                            </div>
+                        </div>
+                    </a>
+                
+                    <a href="https://www.moog.es/asistencia.html" aria-label="Asistencia" title="Asistencia" target="_self" data-modal-id="about-moog-tile-2" class="mt-about-style--tiles-item ">
+                        <div class="lazy mt-about-style--tiles-item__details " data-general-image="/content/dam/country-sites/france/images/services/Field_Service_with_Van_Mobile_Phone.jpeg.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2f country-sites\2f france\2fimages\2fservices\2f Field_Service_with_Van_Mobile_Phone.jpeg.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                        </div>
+                        <div class="mt-about-style--tiles-item__tile-overlay">
+                            <div class="tile-footer">
+                                <p class="cta">Asistencia</p>
+                            </div>
+                        </div>
+                    </a>
+                
+                    <a href="https://www.moog.es/acerca-de-moog.html" aria-label="Acerca de Moog" title="Acerca de Moog" target="_self" data-modal-id="about-moog-tile-3" class="mt-about-style--tiles-item ">
+                        <div class="lazy mt-about-style--tiles-item__details " data-general-image="/content/dam/country-sites/images/Spain-Tile.JPG.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2f country-sites\2fimages\2fSpain-Tile.JPG.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                        </div>
+                        <div class="mt-about-style--tiles-item__tile-overlay">
+                            <div class="tile-footer">
+                                <p class="cta">Acerca de Moog</p>
+                            </div>
+                        </div>
+                    </a>
+                
+            </div>
+
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+            
+        
+    
+
+<div id="pdfModal" class="pdf-modal" style="display: none;">
+    <button id="closeModal" class="mfp-close"></button>
+    <div class="pdf-modal-content">
+        <canvas id="pdfCanvas"></canvas>
+        <div class="pdf-navigation">
+            <button id="prevPage" class="btn prev">Previous</button>
+            <span id="pageCount">Page 1 of X</span>
+            <button id="nextPage" class="btn next">Next</button>
+        </div>
+    </div>
+</div></div>
+<div class="fullWidthContainer-v2 fullWidthContainer parbase section">
+
+
+<div class="fullWidthContainer-v2-bg Container_Border u-background-concrete
+        
+        u-padding-none
+        
+        
+        
+        
+        
+        u-linkstyle-plain fullWidthContainer-inner default
+        
+        analytics-hp-main">
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <section class="Section fullWidthContainer-content
+        u-padding-none-vertical
+        
+        
+        
+        
+        u-limit-width-true
+        u-align-inherit ">
+
+        
+        
+
+            
+            
+
+            
+            <div class="wrapper">
+
+
+
+
+    
+    
+    <div class="section-header">
+<!--   Light Redesign - Section Header component. -->
+
+<!--   Title, description and industry tiles -->
+ 
+
+ 
+    
+    
+
+
+<div class="Section_Header u-color-transparent">
+    <div class="Text Text--normal">
+        
+        <h1>Rendimiento y eficiencia en el control del movimiento</h1>
+         <p style="text-align: center;">Desde 1951, Moog diseña, fabrica y comercializa productos y soluciones para el control de movimiento.  Atendemos a mercados de alta tecnología como el aeroespacial, el de defensa, el industrial y el médico. Nuestros productos y aplicaciones de altas prestaciones controlan con precisión la velocidad, la posición, la fuerza o la aceleración del movimiento lineal o rotativo.</p>
+<p style="text-align: center;">Con más de 40 filiales en todo el mundo, Moog se especializa en el suministro de componentes y sistemas de control de precisión para aplicaciones industriales complejas. Nuestra gama de tecnologías tanto eléctricas, hidráulicas e híbridas, junto con el asesoramiento y el apoyo de nuestros especialistas, le ayudarán a mejorar la eficiencia y la productividad de sus máquinas de la forma más respetuosa con el medio ambiente, manteniendo sus costes de producción y energía bajo control. Queremos que cada movimiento de su máquina sea un reflejo de la fiabilidad de nuestra experiencia.</p>
+ 
+        <div class="Container_Border ">
+
+
+
+
+</div>
+    </div>
+</div></div>
+
+
+</div>
+        
+    </section>
+</div>
+</div>
+<div class="fullWidthContainer-v2 fullWidthContainer parbase section">
+
+
+<div class="fullWidthContainer-v2-bg Container_Border u-background-concrete
+        
+        u-padding-thin
+        
+        
+        
+        
+        
+        u-linkstyle-plain fullWidthContainer-inner default
+        
+        analytics-hp-main">
+    
+
+    
+
+    
+    
+    
+    
+
+    
+    <section class="Section fullWidthContainer-content
+        u-padding-thin-vertical
+        
+        
+        
+        
+        u-limit-width-true
+        u-align-inherit ">
+
+        
+        
+
+            
+            
+
+            
+            <div class="wrapper">
+
+
+
+
+    
+    
+    <div class="videoGallery parbase">
+    
+    
+
+
+<script type="text/plain" class="optanon-category-C0004">
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+</script>
+<div class="wrapper">
+    
+    <div class="Video_Gallery Video_Gallery--moog  light">
+        <div class="Video_Gallery-fullsize">
+            <div class="Video_Gallery-item " id="wrapper_vg_a605c8c5-f983-45cf-9b48-3f6f23d66460">
+                <div id="vg_a605c8c5-f983-45cf-9b48-3f6f23d66460">
+                    
+                    <div class="video dam video-img-alignment" style="height: 100%">
+                       
+                        
+                        
+                            <div class="responsive_padding">
+                                <div class="responsive_wrapper" data-startTime="0">
+                                    <video id="dam-video-a605c8c5-f983-45cf-9b48-3f6f23d66460" controls class="video-js vjs-big-play-centered damVideo" style="width: 100%; height: 100%;" preload="auto" poster="/content/dam/sites/moog/images/Home_Page/moog-purpose-logo.jpg" data-setup="{}">
+                                        <source src="/content/dam/sites/germany/video/Our-Purpose-at-Moog.mp4" type="video/mp4"/>
+                                    </video>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+</div>
+</div>
+
+
+</div>
+        
+    </section>
+</div>
+</div>
+<div class="verticalSpacer section"><div class="Vertical_Height Vertical_Height--slim">
+    
+</div></div>
+<div class="master-tiles base-templates section">
+    
+    
+
+
+
+
+    
+        
+            
+                
+                
+    
+    <div class="mt-general-style FilterableTiles analytics-hp-main">
+        
+        <h1 class="mt-general-style--title mt-heading mt-title--center">
+            Más información
+        </h1>
+        
+        
+        
+        
+        <div class="mt-general-style--tiles">
+            
+                <a href="https://www.moog.com/news.tradeshows-and-events.html?event=training" class="mt-general-style--tiles-item " target="_blank">
+                    <div class="lazy mt-general-style--tiles-item__details " data-general-image="/content/dam/sites/germany/images/karriere/BB-Kultur.jpg.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2fsites\2fgermany\2fimages\2fkarriere\2f BB-Kultur.jpg.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                    </div>
+                    <div class="mt-general-style--tiles-item__overlay">
+                        <span class="tile-top-label"> Técnicas de conformación </span>
+                        <div class="details-group">
+                            <h2 class="tile-title">¿Necesita más información técnica y práctica?</h2>
+                            
+                            <div class="tile-footer">
+                                <span class="cta"><p>Lista de las sesiones de formación</p></span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="https://www.moog.com/news.tradeshows-and-events.html" class="mt-general-style--tiles-item " target="_blank">
+                    <div class="lazy mt-general-style--tiles-item__details " data-general-image="/content/dam/country-sites/luxembourg/EuroBLECH22.JPG.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2f country-sites\2fluxembourg\2f EuroBLECH22.JPG.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                    </div>
+                    <div class="mt-general-style--tiles-item__overlay">
+                        <span class="tile-top-label"> Ferias comerciales </span>
+                        <div class="details-group">
+                            <h2 class="tile-title">Venga a nuestra reunión </h2>
+                            
+                            <div class="tile-footer">
+                                <span class="cta"><p>Más información</p></span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="https://www.moog.com/news.operating-group-news.html" class="mt-general-style--tiles-item " target="_blank">
+                    <div class="lazy mt-general-style--tiles-item__details " data-general-image="/content/dam/sites/germany/images/germany/Moog_BB_Website_Hero_1440x700_Presse_210629.jpg.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2fsites\2fgermany\2fimages\2fgermany\2fMoog_BB_Website_Hero_1440x700_Presse_210629.jpg.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                    </div>
+                    <div class="mt-general-style--tiles-item__overlay">
+                        <span class="tile-top-label"> Noticias </span>
+                        <div class="details-group">
+                            <h2 class="tile-title">Mantente informado</h2>
+                            
+                            <div class="tile-footer">
+                                <span class="cta"><p>Más información</p></span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="https://www.moog.es/literatura.html" class="mt-general-style--tiles-item " target="_blank">
+                    <div class="lazy mt-general-style--tiles-item__details " data-general-image="/content/dam/sites/germany/images/germany/Moog_BB_A_Website_546x848_210629.jpg.transform/master-tile-general-style/image.jpeg" data-bg="url(\2f content\2f dam\2fsites\2fgermany\2fimages\2fgermany\2fMoog_BB_A_Website_546x848_210629.jpg.transform\2fmaster-tile-general-style\2fimage.jpeg)">
+                    </div>
+                    <div class="mt-general-style--tiles-item__overlay">
+                        <span class="tile-top-label"> Literatura </span>
+                        <div class="details-group">
+                            <h2 class="tile-title">Literatura</h2>
+                            
+                            <div class="tile-footer">
+                                <span class="cta"><p>Más información</p></span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+        </div>
+
+        
+        
+        
+        
+        
+        
+    </div>
+
+            
+            
+        
+    
+
+<div id="pdfModal" class="pdf-modal" style="display: none;">
+    <button id="closeModal" class="mfp-close"></button>
+    <div class="pdf-modal-content">
+        <canvas id="pdfCanvas"></canvas>
+        <div class="pdf-navigation">
+            <button id="prevPage" class="btn prev">Previous</button>
+            <span id="pageCount">Page 1 of X</span>
+            <button id="nextPage" class="btn next">Next</button>
+        </div>
+    </div>
+</div></div>
+<div class="fullWidthCTA parbase section">
+<div class="fullWidthCTA-colorScheme-concrete
+            fullWidthCTA-padding-thin u-linkstyle-button--dark
+            fullWidthCTA-link-alignment-center">
+    <div class="fullWidthCTA-content contain">
+        <div class="fullWidthCTA-image">
+    
+    
+
+
+    
+
+</div>
+        
+        
+        <a class="fullWidthCTA-link fullWidthCTA-link-" href="https://www.moog.es/contactos.html" target="_self">
+            Contáctenos<em class="fa fa-angle-right"></em>
+        </a>
+        
+
+
+
+
+
+    </div>
+</div>
+</div>
+
+
+</main>
+
+
+<!-- Footer -->
+<footer id="global-footer">
+    
+
+
+
+
+    
+        
+        
+        <div class="light-redesign-footer-v2 base-templates">
+    
+    
+
+
+
+<div class="footer-v2 analytics-navigation">
+    <nav class="nav-v2">
+
+
+
+
+    
+    
+    <div class="footer-links links-list base-templates">
+    
+    
+
+
+
+<div class="nav-v2-list">
+    <div class="nav-v2-list--item">
+        
+            
+    <a class="v2-nav-parent-item" href="https://www.moog.es/acerca-de-moog.html" target="_self" aria-label="About Moog">
+        Moog en España
+    </a>
+
+            <button type="button" class="v2-nav-toggle-btn" aria-expanded="false" aria-haspopup="true" aria-label="Toggle submenu"></button>
+        
+        <div class="nav-v2-list--item-child-nav v2-nav-toggle-content">
+            <ul class="nav-v2-list--item-child-nav__group">
+                <li class="v2-child-links-list ">
+                    
+                        
+    <a class="v2-child-links-item" href="https://www.moog.com/about-us/certifications.html" target="_self">
+        Certifications
+    </a>
+
+                    
+                </li>
+            
+                <li class="v2-child-links-list ">
+                    
+                        
+    <a class="v2-child-links-item" href="https://www.moog.com/about-us/privacy-policy.html" target="_self">
+        Privacy Policy
+    </a>
+
+                    
+                </li>
+            
+                <li class="v2-child-links-list ">
+                    
+                        
+    <a class="v2-child-links-item" href="https://www.moog.com/about-us/notice-of-data-privacy-for-employees.html" target="_self">
+        Data Privacy for Employees
+    </a>
+
+                    
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="footer-links links-list base-templates">
+    
+    
+
+
+
+<div class="nav-v2-list">
+    <div class="nav-v2-list--item">
+        
+            
+    <a class="v2-nav-parent-item" href="https://www.moog.es/productos-y-soluciones.html" target="_self" aria-label="Productos">
+        Productos y soluciones
+    </a>
+
+            
+        
+        <div class="nav-v2-list--item-child-nav v2-nav-toggle-content">
+            
+        </div>
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="footer-links links-list base-templates">
+    
+    
+
+
+
+<div class="nav-v2-list">
+    <div class="nav-v2-list--item">
+        
+            
+    <a class="v2-nav-parent-item" href="https://www.moog.es/asistencia.html" target="_self" aria-label="Produkte">
+        Asistencia
+    </a>
+
+            
+        
+        <div class="nav-v2-list--item-child-nav v2-nav-toggle-content">
+            
+        </div>
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="footer-links links-list base-templates">
+    
+    
+
+
+
+<div class="nav-v2-list">
+    <div class="nav-v2-list--item">
+        
+            
+    <a class="v2-nav-parent-item" href="https://www.moog.es/industria.html" target="_self" aria-label="Industrias">
+        Industrias
+    </a>
+
+            
+        
+        <div class="nav-v2-list--item-child-nav v2-nav-toggle-content">
+            
+        </div>
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="footer-links links-list base-templates">
+    
+    
+
+
+
+<div class="nav-v2-list">
+    <div class="nav-v2-list--item">
+        
+            
+    <a class="v2-nav-parent-item" href="https://www.moog.com/careers.html" target="_blank" aria-label="Carrera">
+        Carrera
+    </a>
+
+            
+        
+        <div class="nav-v2-list--item-child-nav v2-nav-toggle-content">
+            
+        </div>
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="footer-links links-list base-templates">
+    
+    
+
+
+
+<div class="nav-v2-list">
+    <div class="nav-v2-list--item">
+        
+            
+    <a class="v2-nav-parent-item" href="https://www.moog.es/contactos.html" target="_self" aria-label="About Moog">
+        Contactos
+    </a>
+
+            
+        
+        <div class="nav-v2-list--item-child-nav v2-nav-toggle-content">
+            
+        </div>
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="social-links links-list base-templates">
+
+    
+    
+
+
+    <ul class="social-links-v2-list">
+        <li class="social-links-v2-list--items">
+            
+                
+    <a class="social-links-v2-list--items-icon" href="https://www.linkedin.com/company/moog-france" target="_blank">
+        <img src="/content/dam/sites/moog/icons/social-media-icons/LinkedIn_Icon.png" alt="linkedin"/>
+        
+    </a>
+
+            
+        </li>
+    
+        <li class="social-links-v2-list--items">
+            
+                
+    <a class="social-links-v2-list--items-icon" href="https://twitter.com/Moog_Industrial" target="_blank">
+        <img src="/content/dam/sites/moog/icons/social-media-icons/Twitter_Icon.png" alt="twitter"/>
+        
+    </a>
+
+            
+        </li>
+    
+        <li class="social-links-v2-list--items">
+            
+                
+    <a class="social-links-v2-list--items-icon" href="https://www.facebook.com/MoogIndustrial/" target="_blank">
+        <img src="/content/dam/sites/moog/icons/social-media-icons/Facebook_Icon.png" alt="facebook"/>
+        
+    </a>
+
+            
+        </li>
+    
+        <li class="social-links-v2-list--items">
+            
+                
+    <a class="social-links-v2-list--items-icon" href="https://www.youtube.com/mooginc" target="_blank">
+        <img src="/content/dam/sites/moog/icons/social-media-icons/YouTube_Icon.png" alt="youtube"/>
+        
+    </a>
+
+            
+        </li>
+    </ul>
+</div>
+
+
+</nav>
+    <div class="social-links-v2">
+
+    
+    
+
+
+    
+</div>
+    <div class="copyright-v2">
+        <div class="copyright-v2--content">
+            <p><a href="https://www.moog.com/" target="_blank">Visit www.moog.com</a></p>
+<p><a href="https://www.moog.com/about-us/privacy-policy.html">Confidencialidad</a></p>
+<p>© 2025 Moog Inc. All Rights Reserved<br />
+</p>
+
+            <p>
+               <a class="ot-sdk-show-settings">Cookie Settings</a>
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+
+</footer>
+
+<!-- Footer Libs -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js" integrity="sha256-lSjKY0/srUM9BE3dPm+c4fBo1dky2v27Gdjm2uoZaL0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+
+    
+    
+<script src="/etc.clientlibs/moog/clientlibs/moog.3rd-party.min.js"></script>
+
+
+
+    
+    
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js"></script>
+<script src="/etc.clientlibs/moog/clientlibs/moog.core.min.js"></script>
+
+
+
+    
+    
+<script src="/etc.clientlibs/moog/clientlibs/moog.all-components.min.js"></script>
+
+
+
+
+
+    
+        <script src="https://hammerjs.github.io/dist/hammer.js"></script>
+        
+    
+<script src="/etc.clientlibs/sites/clientlibs/sites-m.min.js"></script>
+
+
+
+    
+
+    
+    
+<script src="/etc.clientlibs/sites/clientlibs/sites.min.js"></script>
+
+
+
+    
+    
+<script src="/etc.clientlibs/moog/light-redesign/clientlibs.min.js"></script>
+
+
+
+
+
+<!-- Footer Include -->
+</body>
+</html>

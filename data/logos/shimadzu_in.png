@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      var ua = navigator.userAgent;
+      if (ua.indexOf('iPad') > 0 || (ua.indexOf('Android') > 0 && ua.indexOf('Mobile') < 0)) {
+        document.write('<meta name="viewport" content="width=1040">');
+      } else {
+        document.write('<meta name="viewport" content="width=device-width,initial-scale=1">');
+      }
+    </script>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<meta name="description" content="" />
+<meta name="keywords" content="SHIMADZU CORPORATION" />
+<meta name="format-detection" content="telephone=no" />
+<title>SHIMADZU CORPORATION</title>
+<style type="text/css" media="all">
+@import url("./common/css/style.css");
+@import url("./common/css/index.css");
+</style>
+</head>
+<body class="is_front">
+<div id="header" class="header-wrapper">
+
+    <script>var page_id = 1;</script>
+    <header class="header">
+      <div class="container">
+        <div class="header-utility">
+          <nav class="header-link">
+            <ul class="header-link-list">
+              <!--<li class="header-link-list-item is_contact"><img src="./common/images/ico_contact.gif" alt="" />CONTACT US</li>-->
+              <li class="header-link-list-item is_globalLinks"><img src="./common/images/ico_global.gif" alt="" /><a href="https://www.shimadzu.com/links/index.html" target="blank">GLOBAL LINKS</a></li>
+            </ul>
+          </nav>
+        </div>
+        
+        <div class="header-logo">
+          <a href="./"><img class="header-logo-image forMobile" src="./common/images/logo_sp.png" alt="SHIMADZU"><img class="header-logo-image forPc at_normal" src="./common/images/logo.png" alt="SHIMADZU"><img class="header-logo-image forPc at_shrinked" src="./common/images/logo_short.png" alt="SHIMADZU"></a>
+        </div>
+      </div>
+      <div class="companyName"><img src="./common/images/logo_txt_sp.png" alt="Shimadzu Analytical (India) Pvt. Ltd. / Shimadzu Medical (India) Pvt. Ltd. All Rights Reserved."></div>
+    </header>
+    </div>
+    
+  <div id="js-topVisual" class="topVisual for_pc">
+    <div class="topVisual-slide">
+      <div class="topVisual-wrapper swiper-wrapper">
+        <div class="topVisual-item swiper-slide"><a href="https://www.an.shimadzu.in/"><img src="./common/images/index/ban_ana.jpg" alt="" /></a></div>
+        <div class="topVisual-item swiper-slide"><a href="https://www.med.shimadzu.in/"><img src="./common/images/index/billboard_ssiaH720pc.jpg" alt="" /></a></div>
+      </div>
+      <div class="topVisual-slide-nav"><span class="topVisual-slide-nav-item pagination-list-item-control is_previous"></span><span class="topVisual-slide-nav-item pagination-list-item-control is_next"></span></div>
+    </div>
+    <div class="topVisual-slide-indicator"></div>
+  </div>
+  
+  <div id="js-topVisual" class="topVisual for_mobile" style="margin-top: 42px;">
+    <div class="topVisual-slide">
+      <div class="topVisual-wrapper swiper-wrapper">
+        <div class="topVisual-item swiper-slide"><a href="https://www.an.shimadzu.in/"><img src="./common/images/index/ban_ana-sp.jpg" alt="" /></a></div>
+        <div class="topVisual-item swiper-slide"><a href="https://www.med.shimadzu.in/"><img src="./common/images/index/billboard_ssiaH720sp.jpg" alt="" /></a></div>
+       </div>
+       <div class="topVisual-slide-nav">
+         <span class="topVisual-slide-nav-item pagination-list-item-control is_previous"></span>
+         <span class="topVisual-slide-nav-item pagination-list-item-control is_next"></span>
+       </div>
+      </div>
+    <div class="topVisual-slide-indicator"></div>
+  </div>
+  
+  
+  <div id="division" class="clearfix">
+    <div class="leftBox">
+     <a href="https://www.an.shimadzu.in/"><div class="tit">Shimadzu Analytical (India) Pvt. Ltd.</div></a>
+     <p>Following the virtues of Shimadzu corporation global headquarter, Japan- Shimadzu Analytical India Pvt. Ltd (SAIP) is focused for “Well-being of both Mankind and the Earth”. We are an extension of Global Shimadzu family for supporting analytical needs of our esteemed customers in India. We strive to achieve our goal of 100% customer satisfaction in-terms of timely support and pro-active actions.</p>
+     <img src="./common/images/index/img_saip.jpg" />
+    </div>
+    
+    <div class="rightBox">
+       <a href="https://www.med.shimadzu.in/"><div class="tit">Shimadzu Medical (India) Pvt Ltd. </div></a>
+       <p>Shimadzu Corporation has been manufacturing world class medical equipment in Japan with strict quality control. We are at the forefront of healthcare industry and our products can provide less invasive technology. Shimadzu Medical (India) Pvt. Ltd. continues to find newer innovative ways to better serve the medical fraternity in India through team of dedicated and well trained, Sales, Service and support staff working round the clock to ensure Customer Delight.</p>
+       <img src="./common/images/index/img_smip.jpg" />
+    </div>
+  </div>
+
+
+
+  
+  <footer class="footer"><div class="container clearfix">
+    <nav class="footer-link">
+    <ul class="footer-link-list">
+      <li class="footer-link-list-item"><a class="footer-link-list-item-link" href="./notice.html">PRIVACY POLICY</a></li>
+      <li class="footer-link-list-item"><a class="footer-link-list-item-link" href="./notice.html">TERMS OF USE</a></li>
+    </ul>
+    </nav>
+    
+    <div class="footer-copyright"><img src="./common/images/copyright.png" alt="Copyright (C) Shimadzu Analytical (India) Pvt. Ltd. / Shimadzu Medical (India) Pvt. Ltd. All Rights Reserved." /></div>
+    <div class="footer-pageTop"><a href="#" class="footer-pageTop-button" data-scroll></a></div></div>
+  </footer>
+  
+          <div id="js-pageTop" class="pageTop">
+      <a href="#" class="pageTop-button">
+        <span class="pageTop-button-borderUpper"></span>
+        <span class="pageTop-button-arrow"></span>
+      </a>
+    </div>
+
+<!--//--><![CDATA[//><!--
+var shimadzu_main_menu = { current_section:""}; 
+//--><!]]>
+</script>
+<script type="text/javascript" src="./common/js/main.js"></script>
+<!--//--><![CDATA[//><!--
+if (location .protocol == "https:") {     document.write(unescape('%3Cscript src="/profiles/shimadzu_corporate/modules/shimadzu_block/misc/syncsuggest_smz.js" type="text/javascript"%3E%3C/script%3E')); } else {    document.write(unescape('%3Cscript src="/profiles/shimadzu_corporate/modules/shimadzu_block/misc/syncsuggest_smz.js" type="text/javascript"%3E%3C/script%3E')); }SYNCSEARCH_SITE="KWBG4K9Y";SYNCSEARCH_GROUP=1;
+//--><!]]>
+</script>
+    <script>
+    var swiper = new Swiper('.js-horizontalSlider', {
+      nextButton: '.js-horizontalSlider .pagination-list-item-control.is_next',
+      prevButton: '.js-horizontalSlider .pagination-list-item-control.is_previous',
+      slidesPerView: 'auto',
+      spaceBetween: 20,
+      speed: 1500,
+      loop: true,
+      autoplay: 3000
+    });
+    </script>
+    <script>
+    var topVisualSlideForMobile = new Swiper('.for_mobile .topVisual-slide', {
+      pagination: '.for_mobile .topVisual-slide-indicator',
+      nextButton: '.for_mobile .topVisual-slide-nav-item.is_next',
+      prevButton: '.for_mobile .topVisual-slide-nav-item.is_previous',
+      slidesPerView: 1,
+      paginationClickable: true,
+      speed: 1500,
+      initialSlide: 0,
+      loop: true,
+      autoplay: 5000
+    });
+
+    var topVisualSlideForPc = new Swiper('.for_pc .topVisual-slide', {
+      pagination: '.for_pc .topVisual-slide-indicator',
+      nextButton: '.for_pc .topVisual-slide-nav-item.is_next',
+      prevButton: '.for_pc .topVisual-slide-nav-item.is_previous',
+      slidesPerView: 1,
+      paginationClickable: true,
+      speed: 1500,
+      initialSlide: 0,
+      loop: true,
+      autoplay: 5000
+    });
+
+    var slideVisualSlideForMobile = new Swiper('.for_mobile .slideVisual-slide', {
+      pagination: '.for_mobile .slideVisual-slide-indicator',
+      nextButton: '.for_mobile .slideVisual-slide-nav-item.is_next',
+      prevButton: '.for_mobile .slideVisual-slide-nav-item.is_previous',
+      slidesPerView: 1,
+      paginationClickable: true,
+      speed: 1500,
+      initialSlide: getRandomIndex(5), // スライドの枚数を引数に取る
+      loop: true
+    });
+
+    var slideVisualSlideForPc = new Swiper('.for_pc .slideVisual-slide', {
+      pagination: '.for_pc .slideVisual-slide-indicator',
+      nextButton: '.for_pc .slideVisual-slide-nav-item.is_next',
+      prevButton: '.for_pc .slideVisual-slide-nav-item.is_previous',
+      slidesPerView: 1,
+      paginationClickable: true,
+      speed: 1500,
+      initialSlide: getRandomIndex(5), // スライドの枚数を引数に取る
+      loop: true
+    });
+    </script>
+    <script>
+      var featureSlide = new Swiper('.feature-slide', {
+        nextButton: '.feature-slide-nav.is_next',
+        prevButton: '.feature-slide-nav.is_previous',
+        slidesPerView: 4,
+        paginationClickable: true,
+        spaceBetween: 30,
+        speed: 1500,
+        loop: true,
+        breakpoints: {
+          750: {
+            spaceBetween: 10,
+            slidesPerView: 2
+          }
+        }
+      });
+      var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        nextButton: '.for_news.is_next',
+        prevButton: '.for_news.is_previous',
+        slidesPerView: 'auto',
+        centeredSlides: true,
+        paginationClickable: true,
+        spaceBetween: 40,
+        loop: true
+      });
+    </script>
+    <script>
+      controllHeader(document.getElementById('header'), 'is_shrink');
+    </script>
+    <script>
+    var scroll = new SmoothScroll('a[href*="#"]');
+    </script>
+    <script>
+      hoverLinkage('is_active');
+    </script>
+    <script>
+      controllPageTop(document.getElementById('js-pageTop'), 'on');
+      adjustWidth(document.querySelectorAll('.js-adjust-width'));
+      tabChange(document.querySelectorAll('.js-tab-change-trigger'), document.querySelectorAll('.js-tab-change-target'), 'is_active');
+    </script>
+    
+
+  </body>
+</html>

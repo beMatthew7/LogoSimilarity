@@ -1,0 +1,12 @@
+pandas
+pyarrow
+requests
+beautifulsoup4
+extract-favicon
+torch
+torchvision
+scikit-learn
+Pillow
+cairosvg
+urllib3
+

@@ -1,0 +1,12 @@
+
+
+
+========================================
+Total domains processed : 4384
+Unreachable (excluded)  : 44
+Valid / online          : 4340
+Logos via scraping      : 3055
+Logos via fallback      : 1175
+Failed (valid domains)  : 110
+Success rate            : 97.47%
+========================================
